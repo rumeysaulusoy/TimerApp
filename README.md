@@ -10,7 +10,7 @@ This project is a simple timer application created using Windows Forms. The time
 
 ## Screenshots
 
-![Timer Application](https://github.com/rumeysaulusoy/TimerApp/raw/main/timerapp.png)
+![Timer Application](https://github.com/rumeysaulusoy/TimerApp/blob/9fecfc1e227a4c5564892c19191bd812e9e7281f/timerapp.jpg)
 
 
 ## Technologies
