@@ -8,7 +8,7 @@ This project is a simple timer application created using Windows Forms. The time
 - **Stop**: Pauses the timer and holds the current elapsed time.
 - **Reset**: Resets the timer and displays 00:00.
 
-## Screenshots
+## Screenshot
 
 ![Timer Application](https://github.com/rumeysaulusoy/TimerApp/blob/9fecfc1e227a4c5564892c19191bd812e9e7281f/timerapp.jpg)
 
